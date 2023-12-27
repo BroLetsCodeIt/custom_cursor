@@ -13,7 +13,7 @@ https://github.com/BroLetsCodeIt/custom_cursor/assets/113767803/c237780c-3be7-43
  </div>
 ```
 - css
-- 
+  
 ```css
 
 .page1 .movingcursor{
